@@ -2,10 +2,10 @@
 
 **Ruido blanco y caminata aleatoria: simulación y aplicación a acciones**
 
-Econometría Financiera (FZ4038) · EGADE Business School, Tecnológico de Monterrey
-Profesor: Dr. Raymundo Díaz Robles
-Alumno: Daniel Mondragón Monroy (A01452205)
-Noviembre de 2026
+   - **Curso:** Econometría Financiera (FZ4038) · EGADE Business School, Tecnológico de Monterrey
+   - **Profesor:** Dr. Raymundo Díaz Robles
+   - **Alumno:** Daniel Mondragón Monroy (A01452205)
+   - **Fecha:** Noviembre de 2026
 
 ## Objetivo
 
